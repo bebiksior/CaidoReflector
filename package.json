@@ -1,0 +1,21 @@
+{
+  "name": "caidoreflector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "bun build src/reflector.ts --outdir final --minify"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "@types/bun": "^1.0.12",
+    "@caido/sdk-workflow": "^0.36.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
