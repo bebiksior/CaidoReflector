@@ -2,7 +2,13 @@
 
 `CaidoReflector` is a passive workflow for Caido that will automatically look for paramater reflections in the HTTP response.
 
-## Installation
+## Installation [Recommended]
+1. Install **EvenBetter** extension https://github.com/bebiksior/EvenBetter
+2. Go to Workflows -> Library
+3. Search for **CaidoReflector** and click Add
+4. Done 🎉
+
+## Installation [without EvenBetter plugin]
 1. Download https://github.com/bebiksior/CaidoReflector/blob/main/Reflector.json
 2. In Caido, navigate to the **Workflows** page
 3. Click **Import** and select the downloaded JSON file.
