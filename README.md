@@ -1,6 +1,10 @@
 # CaidoReflector
-
 `CaidoReflector` is a passive workflow for Caido that will automatically look for paramater reflections in the HTTP response.
+
+> [!CAUTION]
+> I would recommend avoiding this workflow for now as it might significantly slow down your Caido project, we are working on a better alternative
+
+
 
 ## Installation [Recommended]
 1. Install **EvenBetter** extension https://github.com/bebiksior/EvenBetter
